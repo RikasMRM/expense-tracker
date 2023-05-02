@@ -31,7 +31,7 @@ npm start
 inside the frontend folder, run;
 
 ```bash
-npm start
+npm run dev
 ```
 
 ## Deployment
